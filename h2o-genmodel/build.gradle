@@ -1,0 +1,7 @@
+//
+// H2O Generated Model Support Module
+//
+description = "H2O GenModel"
+
+apply from: '../gradle/dataCheck.gradle'
+
